@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../brickhouse/assets"
+		},
+		{
+			"path": "../brickhouse/pacmen-factory"
+		},
+		{
+			"path": "../brickhouse/realtime-bus-tracker"
+		},
+		{
+			"path": "../brickhouse/moving-eyes"
+		},
+		{
+			"path": "../brickhouse/lib"
+		},
+		{
+			"path": "../brickhouse/mapbox-gl"
+		},
+		{
+			"path": "../brickhouse/mapbox-gl-supported"
+		},
+		{
+			"path": "../brickhouse/vector-tile"
+		}
+	],
+	"settings": {}
+}
